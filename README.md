@@ -99,5 +99,3 @@ While **Random Forest** achieved the highest overall performance, **XGBoost** sh
 Beyond accuracy, **macro-averaged ROC-AUC and PRC-AUC** serve as the most reliable indicators of model performance in multi-class classification tasks.
 
 ---
-
-Would you like me to format this as a ready-to-use `README.md` file (Markdown export) so you can drop it directly into your GitHub repo?
